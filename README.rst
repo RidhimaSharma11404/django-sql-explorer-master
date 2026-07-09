@@ -1,22 +1,4 @@
-<h1 align="center">🚀 SQL Explorer</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Interactive+SQL+Explorer;Database+Schema+Browser;Query+Execution+Platform;Built+with+Django+%26+SQL" />
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Customized-orange?style=for-the-badge"/>
-
-</p>
-
----
 
 # 📖 Overview
 
